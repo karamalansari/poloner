@@ -1,0 +1,15 @@
+flask
+gunicorn
+yt_dlp
+requests
+youtube_search
+json
+aioflask
+Response
+pyrogram
+asyncio
+aiohttp
+ClientSession
+Python_ARQ
+ARQ
+telegram
